@@ -313,7 +313,10 @@ a, span {
     text-align: center;
   }
 }
-@media (max-width: 385px) {
+@media (max-width: 370px) {
+  .offers {
+    padding: 70px 50px;
+  }
   .offer {
     padding: 5px;
   }
