@@ -313,3 +313,11 @@ a, span {
     text-align: center;
   }
 }
+@media (max-width: 385px) {
+  .offer {
+    padding: 5px;
+  }
+  .subscribe {
+    padding: 70px 50px;
+  }
+}  
